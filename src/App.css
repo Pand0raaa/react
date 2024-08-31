@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+
+.navbar {
+    background-color: #333; /* Dark background for the navbar */
+    padding: 10px 20px;
+    border-bottom: 3px solid #444; /* Bottom border to separate from content */
+}
+
+.navbar .navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .nav-link {
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 0 15px;
+}
+
+.navbar .nav-link.active {
+    font-weight: bold;
+}
+
+.navbar .TitleNav {
+    font-family: 'Creepster', cursive;
+    color: #ff0000; /* Red color for the title */
+}
+
+.navbar .nav-link button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-family: 'Creepster', cursive;
+    font-size: 1.2rem;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1030; /* Ensure it is above other content */
+  }
+  
