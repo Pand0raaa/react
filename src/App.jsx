@@ -7,7 +7,7 @@ import Scp_004 from './SCP_004';
 import Scp_005 from './SCP_005';
 import Scp_006 from './SCP_006';
 import Scp_Foundation from './SCP_Foundation';
-import './app.css'
+import './App.css'
 
 function App() {
   return (
