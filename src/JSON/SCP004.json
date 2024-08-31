@@ -1,0 +1,101 @@
+[
+  {
+    "Item": "SCP-004",
+    "ObjectClass": "Euclid",
+    "SpecialContainmentProcedures": [
+      "When handling items SCP-004-2 through SCP-004-13, proper procedure is vital. The items are not permitted to be moved off-site unless accompanied by two Level 4 security personnel.",
+      "Under no circumstances should any other component of SCP-004 be taken through SCP-004-1. The effects of doing so are as yet unknown, and the current cost of experimentation makes further research impractical.",
+      "Should any of the objects contained within SCP-004-1 breach containment, or the facility be breached, the keys must be brought inside and the door closed prior to activation of Site 62’s on-site warhead.",
+      "Unauthorized removal of keys from the testing area is grounds for immediate termination.",
+      "Level 1 clearance is required for basic access to SCP-004-1; Level 4 clearance is required for use of SCP-004-2 to -13."
+    ],
+    "Description": [
+      "SCP-004 consists of an old wooden barn door (SCP-004-1) and a set of twelve rusted steel keys (SCP-004-2 through SCP-004-13). The door itself is the entrance to an abandoned factory in [DATA EXPUNGED]."
+    ],
+    "ChronologicalHistory": [
+      {
+        "date": "07/02/1949",
+        "event": "A group of three juveniles trespassing on federal property near ██████████ find the door."
+      },
+      {
+        "date": "07/03/1949",
+        "event": "Local authorities find the severed right hand of SCP-004-CAS01 eight kilometers from SCP-004-1."
+      },
+      {
+        "date": "07/04/1949",
+        "event": "SCP Agent █████ obtains the keys from the local authorities to begin testing."
+      },
+      {
+        "date": "07/16/1949",
+        "event": "The juvenile suspects and Sheriff █████████████████ are terminated."
+      },
+      {
+        "date": "08/02/1949",
+        "event": "█████████████████ is declared a hazardous area 'due to unexploded ordnance' and fences erected in order to prevent civilian ingress."
+      },
+      {
+        "date": "12/01/1950",
+        "event": "Space-time anomalies resulting from exposure to SCP-004 are confirmed. Testing is suspended until further notice."
+      },
+      {
+        "date": "07/02/19██",
+        "event": "The unaccounted-for remains of SCP-004-CAS01 appear unexpectedly outside SCP-004-1."
+      },
+      {
+        "date": "07/04/19██",
+        "event": "The unaccounted-for remains of one of the twelve (12) original test subjects appear in similar manner to those of SCP-004-CAS01."
+      },
+      {
+        "date": "03/21/1999",
+        "event": "Construction begins on a site inside SCP-004-1 for emergency storage."
+      },
+      {
+        "date": "04/21/1999",
+        "event": "The site inside SCP-004-1 is expanded to include emergency storage for all mobile SCP-███ specimens and a ██-petabyte database for the storage of all SCP data. The facility is now referred to as Site-62."
+      },
+      {
+        "date": "09/25/2000",
+        "event": "Site-62 is operational. Labs and containment units are complete and can contain the most dangerous specimens. Backup of the SCP database has begun."
+      },
+      {
+        "date": "01/25/2001",
+        "event": "All personnel working at Site-62 are now required to reside on-site permanently."
+      },
+      {
+        "date": "08/14/2003",
+        "event": "Massive power outage across Northeast United States and through Canada. Site-62 was without power for fifty-three (53) minutes."
+      }
+    ],
+    "SpaceTimeAnomalies": [
+      "SCP-004 seems to propagate spatiotemporal anomalies. Personnel leaving the facility report losing time. Those who have been in the site for weeks insist that they had only been in the facility for several days, and records of work completed and supplies consumed support their claims.",
+      "Other temporal anomalies involve SCP-004-2 through -13, especially the reappearance of SCP-004-CAS01 and SCP-004-CAS02 exactly ██ years after using SCP-004-██.",
+      "Spatial anomalies include the impossibly large dimensions of the area opened by SCP-004-7. Similarly, the 2003 blackout incident suggests that there exists an alternate plane of existence within the same space that Site-62 occupies."
+    ],
+    "AdditionalNotes": [
+      "Testing on SCP-004 reveals that ten of the keys open SCP-004-1 on a dimension where the laws of physics and topology are significantly different than those of our home dimension.",
+      "Material deposited at two of these points appears immediately; material deposited at the third appears exactly ██ years into the future. The other seven locations are currently unknown.",
+      "Current testing focuses on two avenues of research. The first is finding ways to survive SCP-004’s hostile topologies. The second [DATA EXPUNGED] suggest that SCP-004-2 through -13 may open doors other than SCP-004-1."
+    ],
+    "Appendices": [
+      {
+        "title": "Appendix A: Mental Health Effects of SCP-004-12",
+        "content": [
+          "All Class D personnel using SCP-004-12 return in a catatonic state, unable to speak.",
+          "Of the 16 subjects, only 4 have survived. Only one has regained speech, following long-term psychotherapy.",
+          "Subject displays acute anterograde and retrograde amnesia."
+        ]
+      },
+      {
+        "title": "Appendix B: Additional Information",
+        "content": [
+          "Item #: SCP-004-14",
+          "Date of Discovery: 09/02/1950",
+          "Origin of Object: Object was discovered elsewhere in factory area, in the previously undiscovered manager's office.",
+          "Description: Object appears as a large, unvarnished wooden box. The box may be unlocked by the 'safe' key, SCP-004-7, as well as five of the 'unsafe' keys (see Document SCP-004-1).",
+          "Upon unlocking SCP-004-14 with SCP-004-7, the box opens automatically on hinges. The volume of the space inside is precisely five times greater than the outer dimensions imply. Items placed within while the lid remains open do not affect the weight or any other properties of the box.",
+          "When the lid is closed and locked, however, all items inside vanish irretrievably. Personnel locked inside the box are also irretrievable, although losing personnel in this fashion appears to affect significantly the dreams experienced by [DATA EXPUNGED]."
+        ]
+      }
+    ]
+  }
+]

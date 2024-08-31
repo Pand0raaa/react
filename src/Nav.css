@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #000; /* Black background for the navbar */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; /* White text color for nav links */
+  }
+  
+  .navbar-nav .nav-link.active {
+    font-weight: bold; /* Optional: highlight the active link */
+  }
+  
+  .TitleNav {
+    color: #ffcc00; /* Customize title color if needed */
+  }
+  

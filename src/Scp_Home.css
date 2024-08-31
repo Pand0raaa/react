@@ -1,0 +1,12 @@
+.scp-file {
+    text-align: center;
+    padding: 10px;
+    border: none; /* Ensure no border is applied */
+    background: none; /* Ensure no background color or image */
+    outline: none; /* Ensure no outline */
+}
+
+.scp-file-link {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Inherit color from parent */
+}
